@@ -29,4 +29,4 @@ The repository is organized into the following sections:
 ## Contributing
 Contributions to this repository are welcome! If you have any additional examples, tutorials, or improvements, feel free to open a pull request. Let's make learning OOP in C++ accessible and enjoyable for everyone.
 
-</Good coding with MuyuX :smiley:>
+</Good coding with MuyuX 👨‍💻>
